@@ -1,11 +1,9 @@
 p {color: red}
 h1 {color: blue}
 h2 {color: purple}
-h2 {color: green}
-strong {color:orange}
-#server-side-intro{color: blue}
 h1 {
    font-size: 6px;
+   font-size: 30px;
 }
 
 /*
